@@ -1,0 +1,1 @@
+web: gunicorn app:B1812371_NgoNhatQuan_app
